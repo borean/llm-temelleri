@@ -13,3 +13,5 @@ Dr. Hasan Bora Ulukapı · Hekim ve akademisyenler için Türkçe temel sunum.
 21 Ekim 2026 · v2: 34 içerik slaytının şekilleri, renkli izometrik nesneler ve kavrama özgü görsel dizilerle yenilendi.
 
 22 Ekim 2026 · v3: 34 çizim özgün A/B/C Hairline motoru ve aynı mavi paletle yeniden hazırlandı. Önceki Colorfigures görsel dili değiştirildi.
+
+22 Ekim 2026 · v4: Tokenlar ve soyut hesaplar dokuz slaytta düz kutular, matrisler ve bağlantılarla gösterildi. Diğer nesne çizimleri A/B/C’nin Hairline stilini koruyor.
