@@ -11,3 +11,5 @@ Dr. Hasan Bora Ulukapı · Hekim ve akademisyenler için Türkçe temel sunum.
 İçerik, [Bora Decks'in LLM dersindeki](https://decks-bora.vercel.app/llm-deck.html) temel konuların yeni görsel dille yeniden düzenlenmiş sürümüdür. Kaynak araştırmaların sonuçları bütün modellere genellenmez.
 
 21 Ekim 2026 · v2: 34 içerik slaytının şekilleri, renkli izometrik nesneler ve kavrama özgü görsel dizilerle yenilendi.
+
+22 Ekim 2026 · v3: 34 çizim özgün A/B/C Hairline motoru ve aynı mavi paletle yeniden hazırlandı. Önceki Colorfigures görsel dili değiştirildi.
