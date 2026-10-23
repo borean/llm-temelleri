@@ -21,3 +21,5 @@ Dr. Hasan Bora Ulukapı · Hekim ve akademisyenler için Türkçe temel sunum.
 22 Ekim 2026 · v6: LLM sunumuna özel iki konuşma balonundan oluşan özgün noktalı izohips motifi kapakta, bölüm geçişlerinde ve kapanışta kullanıldı. Bilginin konumunu anlatan slayt, GitHub katkı ızgarası gibi soldan sağa uzanan kare tokenlarla yenilendi; baş ve son belirgin, orta bölüm soluktur. Bu bir ölçüm grafiği değil, konuma göre kullanım farkının öğretici şemasıdır. Diğer slaytların v5 ile aynı kaldığı doğrulandı.
 
 22 Ekim 2026 · v7: Token ızgarasının renkleri düzenli gradient yerine hücreden hücreye değişen yedi mavi tonla dağıtıldı. Başlangıç ve son belirgin, orta bölüm soluk kalır; kareler, yazılar ve diğer slaytlar korunur.
+
+23 Ekim 2026 · v8: Sağ alt kaynaklar A/B/C ailesiyle ortak yazar-yıl/kaynak/DOI-arXiv düzenine getirildi. Mevcut kaynak bağlantıları korunur. Slayt gövdeleri ve konuşmacı notları aynıdır.
